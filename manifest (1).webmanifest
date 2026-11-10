@@ -1,0 +1,14 @@
+{
+  "name": "YL Inspection Kit",
+  "short_name": "YL Inspection Kit",
+  "description": "LEW attendance report builder",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f28a12",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
