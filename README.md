@@ -13,7 +13,7 @@ You can explain what this project does, its purpose, and key features.
 
 ## Demo
 You can add a live demo link here if you have GitHub Pages deployed:
-[Live Demo](https://yourusername.github.io/your-repo-name/)
+[Live Demo](https://chinpsai.github.io/YL-Inspection-kit/)
 
 ## How to Use
 1. Clone this repository
